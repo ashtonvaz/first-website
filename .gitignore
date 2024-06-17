@@ -8,3 +8,8 @@
 *Rproj
 /_site
 _publish.yml
+
+*.rds
+*.png
+*.gif
+*.bmp
