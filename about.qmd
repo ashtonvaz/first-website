@@ -1,5 +1,7 @@
 ---
 title: "About"
 ---
+## About Me
+My name is **Ashton**, and I am a student in **David Kane's** *Data Science course*.
 
-Ashton
+[Kane’s Free Data Science Bootcamp](https://bootcamp.davidkane.info)
